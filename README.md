@@ -8,13 +8,13 @@ The findings indicate a positive relationship between economic growth—measured
 This research contributes to understanding the global implications of economic development on public health and social behaviors. It underscores the need for targeted policies, such as taxation and seasonal restrictions, to mitigate the potential adverse effects of economic growth on alcohol-related harm.
 
 ## Key Variables
-Dependent Variable: Alcohol consumption per capita (liters of pure alcohol, 15+ years of age).
-Independent Variables: GDP per capita, HDI, unemployment rates, Gini Index, homebrewing legality (dummy variable), and annual mean temperature.
+**Dependent Variable**: Alcohol consumption per capita (liters of pure alcohol, 15+ years of age).
+**Independent Variables**: GDP per capita, HDI, unemployment rates, Gini Index, homebrewing legality (dummy variable), and annual mean temperature.
 
 ## Methodology
 Two econometric models were employed:
-- A univariate regression analyzing GDP per capita and HDI independently.
-- Multivariate regressions incorporating additional variables for a holistic assessment.
+- A *univariate regression* analyzing GDP per capita and HDI independently.
+- *Multivariate regressions* incorporating additional variables for a holistic assessment.
 
 ## Conclusions
 Economic growth, as indicated by GDP per capita and HDI, increases alcohol consumption.
