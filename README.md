@@ -22,6 +22,8 @@ Cooler climates and unemployment rates significantly drive higher alcohol use.
 Income inequality reduces consumption, highlighting nuanced socio-economic dynamics.
 Policies addressing these factors are essential to balance economic progress with public health goals.
 
+To learn more about how I conducted this econometric analysis go check out the file named **Economics Capstone**!
+
 ## Limitations
 The study acknowledges potential biases from data availability, cultural differences, and multicollinearity among independent variables. Expanding the dataset to include more countries and factors, such as alcohol pricing and cultural diversity, could enhance future analyses.
 
