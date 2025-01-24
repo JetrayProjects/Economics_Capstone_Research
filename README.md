@@ -9,6 +9,7 @@ This research contributes to understanding the global implications of economic d
 
 ## Key Variables
 **Dependent Variable**: Alcohol consumption per capita (liters of pure alcohol, 15+ years of age).
+
 **Independent Variables**: GDP per capita, HDI, unemployment rates, Gini Index, homebrewing legality (dummy variable), and annual mean temperature.
 
 ## Methodology
