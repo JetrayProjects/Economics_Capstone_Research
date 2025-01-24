@@ -1,4 +1,4 @@
-# How does Economic Development affect alcohol consumption trends across the globe?
+# How does Economic Development affect alcohol consumption trends across the world?
 
 ## Abstract
 This study investigates the relationship between global economic development and alcohol consumption per capita, exploring how macroeconomic and socio-cultural factors influence drinking behavior. Using a panel dataset of 51 countries over the period 2017–2019, the analysis examines the effects of GDP per capita, Human Development Index (HDI), unemployment rates, income inequality (Gini Index), homebrewing legality, and annual mean temperature on alcohol consumption.
